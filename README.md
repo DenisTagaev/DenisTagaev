@@ -1,6 +1,6 @@
 <h1 align="center">Hi folks👋, I'm Denis, web developer from Canada</h1>
   
-I love building **scalable, user-friendly web applications** utilizing the latest tools and integrating existing code. I'm passionate about clean code, accessibility, and collaboration in fast-paced environments. You can connect with me at <a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-tagaev-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-tagaev-work/" height="30" width="40" /></a>
+I love building **scalable, user-friendly web applications** utilizing the latest tools and integrating existing code. I'm passionate about clean code, accessibility, and collaboration in fast-paced environments. You can connect with me at <a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-tagaev-work/" target="blank"><img align="center" src="http://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/denis-tagaev-work/"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denistagaev" alt="denistagaev" /></a> </p>
 
